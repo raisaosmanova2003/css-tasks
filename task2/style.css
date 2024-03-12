@@ -1,0 +1,24 @@
+.content {
+   width: 850px;
+   height: 720px;
+   background-color: rgb(240, 223, 198);
+   margin: auto;
+   
+}
+.image {
+    text-align: center;
+    border-bottom: 2px solid rgb(2, 176, 199);
+}
+ .image img { 
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+ }
+ .title {
+  padding-left: 30px;
+  padding-right: 30px;
+ }
+
+  .title h4 {
+    color: red;
+  }

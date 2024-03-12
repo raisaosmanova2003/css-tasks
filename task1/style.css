@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.img img {
+    width: 400px;
+}
+p {
+    padding: 0;
+}
+.margin {
+
+ margin: auto;
+ height: 415px ;
+ padding: 20px;
+ width: 560px;
+ background-color: orange;
+}
+.border {
+ padding-left: 20px;
+ background-color: yellow;
+ width: 500px;
+ height: 340px;
+}
+
+.padding {
+    padding-left: 20px;
+  background-color: greenyellow;
+  width:450px ;
+  height: 300px;
+}
+
+.content {
+    
+    background-color: aquamarine;
+    width: 400px;
+    height: 265px;
+}
